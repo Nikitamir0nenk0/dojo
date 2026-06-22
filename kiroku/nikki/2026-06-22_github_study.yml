@@ -1,0 +1,20 @@
+date: "2026-06-22"
+topic: github
+type: study
+concepts_taught:
+  - repository
+  - commit
+  - branch
+  - push_pull_remote
+weak_spots:
+  - "commit: путаница между состояниями файла (modified/untracked vs 'вне видимости')"
+  - "push/pull: конфликт назван причиной отказа push, а не следствием pull"
+randori_results:
+  total: 5
+  correct: 2
+  partial: 2
+  incorrect: 1
+notes: |
+  Первая сессия. Базовые концепты GitHub. Студент схватывает суть быстро,
+  но формулировки неточные — путает уровни абстракции (состояния файлов, порядок операций).
+  Хорошо оспаривает неточности сенсея (zip + .git) — критическое мышление есть.
