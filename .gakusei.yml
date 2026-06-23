@@ -1,0 +1,8 @@
+# Student identity — single source of truth for who the student is.
+# DO NOT add topics, goals, or session state here.
+
+student_name: Никита
+github_username: Nikitamir0nenk0
+repo: dojo
+language: russian
+issue_language: english

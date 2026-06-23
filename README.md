@@ -1,11 +1,12 @@
 # Dojo — Никита
 
-Personal learning dojo.
-
 | Field | Value |
 |---|---|
 | Student | Никита |
-| Chat language | Russian |
-| Issue language | Russian |
+| GitHub | [@Nikitamir0nenk0](https://github.com/Nikitamir0nenk0) |
+| Language | Russian |
+| Framework | [dojo](https://github.com/Malstrom/zeroth/tree/main/frameworks/dojo) |
 
-Progress is tracked via GitHub Issues (label: `Goal`) and `kata/` files.
+---
+
+This repo is managed by the dojo framework. Progress is tracked via GitHub Issues and `kata/` files.
