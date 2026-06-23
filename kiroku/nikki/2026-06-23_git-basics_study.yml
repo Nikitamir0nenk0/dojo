@@ -1,0 +1,35 @@
+date: 2026-06-23
+topic: git-basics
+type: study
+student: Никита
+
+concepts_covered:
+  - id: what-is-git
+    question: "Что произойдёт, если вернуться к предыдущему коммиту?"
+    answer: "У меня будет состоэние файла на момент недельной давности"
+    result: pass
+
+  - id: git-vs-github
+    question: "Если сломался ноутбук, но репо запушен на GitHub — потеряешь ли историю?"
+    answer: "К локальным да, к тем, что в репе — нет"
+    result: pass
+
+  - id: repo-structure
+    question: "Коллега сказал: посмотри последний коммит. Куда идёшь на GitHub?"
+    answer: "В ветку коллеги, там показан последний коммит"
+    result: pass
+
+  - id: work-cycle
+    question: "Почему Git отказывает при push, если коллега запушил раньше?"
+    answer: "Нет истории коммитов, нужно pull"
+    result: pass
+
+  - id: commit-messages
+    question: "Какое сообщение напишешь при исправлении бага в budget.py?"
+    answer: "fix budget.py что изменил— близко, но нужна суть изменения, не имя файла"
+    result: partial
+    note: "Студент понял после пояснения"
+
+score: 4.5/5
+gaps_closed: []
+new_gaps: []
