@@ -1,7 +1,0 @@
-# .gakusei.yml — student identity
-# Source of truth: student_name, language, issue_language ONLY.
-# Do NOT add topics, goals, or session state here.
-
-student_name: Никита
-language: ru
-issue_language: ru
